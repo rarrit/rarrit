@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<img src="https://render.gitanimals.org/lines/farms/rarrit" width="1000" height="150" />
+<img src="https://render.gitanimals.org/farms/rarrit" width="1000" height="150" />
