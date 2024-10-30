@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://render.gitanimals.org/farms/rarrit" width="1200" height="200" />
+<img src="https://render.gitanimals.org/lines/rarrit?pet-id=639536611361823287" width="1000" height="80" /> 
